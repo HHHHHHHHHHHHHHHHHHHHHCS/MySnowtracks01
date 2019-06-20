@@ -153,6 +153,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   drawShader: {fileID: 4800000, guid: fff73634633f3904685a91c919fe8df7, type: 3}
+  brushSize: 5
+  brushStrength: 0.5
 --- !u!23 &657910327
 MeshRenderer:
   m_ObjectHideFlags: 0
